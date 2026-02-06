@@ -2,7 +2,7 @@
   "name": "html-hosting",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://Siddhantst08.github.io/HTML-Hosting",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
